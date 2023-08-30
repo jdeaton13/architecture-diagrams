@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T12:08:36.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="20.2.3" etag="ap291hpxCPBaJ6mdKGrv" type="github"><diagram id="Xy-V2x7_hQMgXE76sZ6W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-08-30T12:23:27.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GsLrg0tjgQP48UuJ6YYg" version="20.2.3" type="github">
+  <diagram id="Xy-V2x7_hQMgXE76sZ6W" name="Page-1">
+    <mxGraphModel dx="1422" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1040" width="1340" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-2" value="Week 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="10" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-3" value="Week 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="440" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-4" value="Week 3" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="910" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-6" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Day 1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-7" value="&lt;span id=&quot;docs-internal-guid-ca58ede6-7fff-c7e7-bb20-b4a4b4f5dc48&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pray for thankfulness for God’s previous provisions and for frequent reminders of his faithfulness as we look ahead&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="10" y="70" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-9" value="&lt;span id=&quot;docs-internal-guid-65ad7c69-7fff-b8ff-c9dc-c857a317325a&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;b&gt;Psalm 119:90&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="10" y="102" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-10" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Day 8&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="450" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-11" value="&lt;span id=&quot;docs-internal-guid-ca58ede6-7fff-c7e7-bb20-b4a4b4f5dc48&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pray for thankfulness for God’s previous provisions and for frequent reminders of his faithfulness as we look ahead&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="450" y="70" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-12" value="&lt;span id=&quot;docs-internal-guid-65ad7c69-7fff-b8ff-c9dc-c857a317325a&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;b&gt;Psalm 119:90&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="450" y="102" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-13" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Day 15&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="920" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-14" value="&lt;span id=&quot;docs-internal-guid-ca58ede6-7fff-c7e7-bb20-b4a4b4f5dc48&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pray for thankfulness for God’s previous provisions and for frequent reminders of his faithfulness as we look ahead&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="920" y="70" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-15" value="&lt;span id=&quot;docs-internal-guid-65ad7c69-7fff-b8ff-c9dc-c857a317325a&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;b&gt;Psalm 119:90&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="920" y="102" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-16" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Day 7&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="10" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-17" value="&lt;span id=&quot;docs-internal-guid-ca58ede6-7fff-c7e7-bb20-b4a4b4f5dc48&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pray for thankfulness for God’s previous provisions and for frequent reminders of his faithfulness as we look ahead&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="10" y="330" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-18" value="&lt;span id=&quot;docs-internal-guid-65ad7c69-7fff-b8ff-c9dc-c857a317325a&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;b&gt;Psalm 119:90&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="10" y="362" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-19" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Day 14&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="450" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-20" value="&lt;span id=&quot;docs-internal-guid-ca58ede6-7fff-c7e7-bb20-b4a4b4f5dc48&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pray for thankfulness for God’s previous provisions and for frequent reminders of his faithfulness as we look ahead&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="450" y="330" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-21" value="&lt;span id=&quot;docs-internal-guid-65ad7c69-7fff-b8ff-c9dc-c857a317325a&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;b&gt;Psalm 119:90&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="450" y="362" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-22" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Day 21&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="920" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-23" value="&lt;span id=&quot;docs-internal-guid-ca58ede6-7fff-c7e7-bb20-b4a4b4f5dc48&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pray for thankfulness for God’s previous provisions and for frequent reminders of his faithfulness as we look ahead&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="920" y="330" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJM3K-5m-oY0NG4agq7k-24" value="&lt;span id=&quot;docs-internal-guid-65ad7c69-7fff-b8ff-c9dc-c857a317325a&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;b&gt;Psalm 119:90&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ZJM3K-5m-oY0NG4agq7k-1">
+          <mxGeometry x="920" y="362" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
